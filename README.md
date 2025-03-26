@@ -7,3 +7,6 @@ This is a simple **React-based Login and Profile UI** where the **Login button n
 - 👤 **Profile Page** with user details & image
 - 🔄 **Navigation** between pages using React Router
 - 🎨 **Styled with CSS** for a clean UI
+
+## 🌐 Live Preview  
+🔗 **[View Project Live](https://project-internshal.vercel.app/)** 
